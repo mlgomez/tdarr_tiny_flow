@@ -1,4 +1,4 @@
-This is just a simple flow I use for basic Tdarr flow. It sets the bitrate to one of your choosing for several different resolutions and resizes anything larger than 1080p to 1080p because that's all I need. It also converts all non-HEVC files to HEVC regardless of bitrate.
+This is just a simple flow I use for basic bitrate adjustment and conversion. It sets the bitrate to one of your choosing for several different resolutions and resizes anything larger than 1080p to 1080p because that's all I need. It also converts all non-HEVC files to HEVC regardless of bitrate.
 
 To make this work properly, you need to define the bitrates you want in library variables. These are:
 
