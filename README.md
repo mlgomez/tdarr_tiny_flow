@@ -2,16 +2,16 @@ This is just a simple flow I use for basic Tdarr flow. It sets the bitrate to on
 
 To make this work properly, you need to define the bitrates you want in library variables. These are:
 
-bitrate_480p
-bitrate_576p
-bitrate_720p
+bitrate_480p  
+bitrate_576p  
+bitrate_720p  
 bitrate_1080p
 
 I have them set up like this right now:
 
-bitrate_480p    800
-bitrate_576p    900
-bitrate_720p    1200
+bitrate_480p    800  
+bitrate_576p    900  
+bitrate_720p    1200  
 bitrate_1080p   1800
 
 I might do some audio tuning as well but I'm not sure I need it. This flow was specifically made for my needs. If it helps you, that's great!
